@@ -1,0 +1,20 @@
+{
+  "name": "random-weight",
+  "version": "1.0.0",
+  "description": "Randomly pick an array item by weight callback",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx tsc -p .",
+    "test": "node test"
+  },
+  "author": "Yves Wang",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "repository": {
+    "url": "https://github.com/paraself/random-weight",
+    "type": "git"
+  }
+}
