@@ -2,6 +2,10 @@
 Randomly pick an array item by weight callback
 
 ### Usage
+```
+npm i -S random-weight
+```
+
 ``` typescript
 import rnd from 'random-weight'
 let items = [
